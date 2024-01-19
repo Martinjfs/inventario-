@@ -9,7 +9,7 @@ int main() {
     cargaInicial(nombreArchivo);
 
     do {
-        printf("\n=== Menú ===\n");
+        printf("\n=== inventario:3 ===\n");
         printf("1. Buscar producto\n");
         printf("2. Agregar producto\n");
         printf("3. Borrar producto\n");
